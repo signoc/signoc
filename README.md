@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+If you're using Reaper DAW, be sure to check out my [scripts](https://github.com/signoc/signoc_scripts/). And if you find them useful and would like to donate, see the reapack install for the donate button.
+
 <!--
 **signoc/signoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
